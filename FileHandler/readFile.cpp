@@ -27,16 +27,3 @@ void ReadFile::close(){
         file.close();
     }
 }
-
-end()
-{
-std:: vector<std::string> lines
-    if(file.is_open())
-    {
-    lines.push_back(line);
-    return lines;
-    }
-
-    std::vector<std::string> lines2;
-    std::vector<std::>
-}
